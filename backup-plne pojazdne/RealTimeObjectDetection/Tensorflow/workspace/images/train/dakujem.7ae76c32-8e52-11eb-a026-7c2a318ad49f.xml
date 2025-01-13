@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>dakujem.7ae76c32-8e52-11eb-a026-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\VidSign\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\dakujem.7ae76c32-8e52-11eb-a026-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dakujem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>219</ymin>
+			<xmax>348</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>zena.d3fc0f1c-908b-11eb-9ed4-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\zena.d3fc0f1c-908b-11eb-9ed4-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>251</ymin>
+			<xmax>489</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

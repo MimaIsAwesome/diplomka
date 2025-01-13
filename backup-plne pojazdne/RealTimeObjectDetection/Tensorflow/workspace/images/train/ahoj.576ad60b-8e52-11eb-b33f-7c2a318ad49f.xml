@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>ahoj.576ad60b-8e52-11eb-b33f-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\VidSign\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\ahoj.576ad60b-8e52-11eb-b33f-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ahoj</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>164</ymin>
+			<xmax>536</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

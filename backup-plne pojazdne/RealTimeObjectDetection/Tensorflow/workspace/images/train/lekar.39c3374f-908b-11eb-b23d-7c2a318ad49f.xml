@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>lekar.39c3374f-908b-11eb-b23d-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\lekar.39c3374f-908b-11eb-b23d-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lekar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>201</ymin>
+			<xmax>468</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

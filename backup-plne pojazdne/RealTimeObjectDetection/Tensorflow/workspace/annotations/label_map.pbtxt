@@ -1,0 +1,288 @@
+item { 
+	name:'a'
+	id:1
+}
+item { 
+	name:'b'
+	id:2
+}
+item { 
+	name:'c'
+	id:3
+}
+item { 
+	name:'d'
+	id:4
+}
+item { 
+	name:'e'
+	id:5
+}
+item { 
+	name:'f'
+	id:6
+}
+item { 
+	name:'g'
+	id:7
+}
+item { 
+	name:'h'
+	id:8
+}
+item { 
+	name:'i'
+	id:9
+}
+item { 
+	name:'j'
+	id:10
+}
+item { 
+	name:'k'
+	id:11
+}
+item { 
+	name:'l'
+	id:12
+}
+item { 
+	name:'m'
+	id:13
+}
+item { 
+	name:'n'
+	id:14
+}
+item { 
+	name:'o'
+	id:15
+}
+item { 
+	name:'p'
+	id:16
+}
+item { 
+	name:'q'
+	id:17
+}
+item { 
+	name:'r'
+	id:18
+}
+item { 
+	name:'s'
+	id:19
+}
+item { 
+	name:'t'
+	id:20
+}
+item { 
+	name:'u'
+	id:21
+}
+item { 
+	name:'v'
+	id:22
+}
+item { 
+	name:'w'
+	id:23
+}
+item { 
+	name:'x'
+	id:24
+}
+item { 
+	name:'y'
+	id:25
+}
+item { 
+	name:'z'
+	id:26
+}
+item { 
+	name:'auto'
+	id:27
+}
+item { 
+	name:'brat'
+	id:28
+}
+item { 
+	name:'budova'
+	id:29
+}
+item { 
+	name:'chlapec'
+	id:30
+}
+item { 
+	name:'dievca'
+	id:31
+}
+item { 
+	name:'domov'
+	id:32
+}
+item { 
+	name:'dvere'
+	id:33
+}
+item { 
+	name:'frajer'
+	id:34
+}
+item { 
+	name:'hasic'
+	id:35
+}
+item { 
+	name:'kamera'
+	id:36
+}
+item { 
+	name:'krava'
+	id:37
+}
+item { 
+	name:'lekar'
+	id:38
+}
+item { 
+	name:'mama'
+	id:39
+}
+item { 
+	name:'pivo'
+	id:40
+}
+item { 
+	name:'policia'
+	id:41
+}
+item { 
+	name:'sestra'
+	id:42
+}
+item { 
+	name:'zena'
+	id:43
+}
+item { 
+	name:'jeden'
+	id:44
+}
+item { 
+	name:'dva_dve'
+	id:45
+}
+item { 
+	name:'tri'
+	id:46
+}
+item { 
+	name:'styri'
+	id:47
+}
+item { 
+	name:'pat'
+	id:48
+}
+item { 
+	name:'sest'
+	id:49
+}
+item { 
+	name:'sedem'
+	id:50
+}
+item { 
+	name:'osem'
+	id:51
+}
+item { 
+	name:'devat'
+	id:52
+}
+item { 
+	name:'chciet'
+	id:53
+}
+item { 
+	name:'davat'
+	id:54
+}
+item { 
+	name:'drzat'
+	id:55
+}
+item { 
+	name:'jest'
+	id:56
+}
+item { 
+	name:'lezat'
+	id:57
+}
+item { 
+	name:'prosim'
+	id:58
+}
+item { 
+	name:'ucit'
+	id:59
+}
+item { 
+	name:'usmievat'
+	id:60
+}
+item { 
+	name:'ja'
+	id:61
+}
+item { 
+	name:'ty'
+	id:62
+}
+item { 
+	name:'on'
+	id:63
+}
+item { 
+	name:'ako'
+	id:64
+}
+item { 
+	name:'alebo'
+	id:65
+}
+item { 
+	name:'ahoj'
+	id:66
+}
+item { 
+	name:'dakujem'
+	id:67
+}
+item { 
+	name:'ano'
+	id:68
+}
+item { 
+	name:'co'
+	id:69
+}
+item { 
+	name:'kedy'
+	id:70
+}
+item { 
+	name:'kto'
+	id:71
+}
+item { 
+	name:'preco'
+	id:72
+}

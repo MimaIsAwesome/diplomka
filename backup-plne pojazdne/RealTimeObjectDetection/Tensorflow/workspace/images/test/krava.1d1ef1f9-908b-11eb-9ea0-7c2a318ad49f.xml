@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>krava.1d1ef1f9-908b-11eb-9ea0-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\krava.1d1ef1f9-908b-11eb-9ea0-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>krava</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>1</ymin>
+			<xmax>522</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

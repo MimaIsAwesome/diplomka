@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>ty.71353945-908e-11eb-b532-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\ty.71353945-908e-11eb-b532-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>218</ymin>
+			<xmax>352</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

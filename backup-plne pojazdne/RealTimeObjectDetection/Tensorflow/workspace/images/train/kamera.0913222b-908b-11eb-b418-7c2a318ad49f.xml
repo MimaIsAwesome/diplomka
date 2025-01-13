@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>kamera.0913222b-908b-11eb-b418-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\kamera.0913222b-908b-11eb-b418-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kamera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>197</ymin>
+			<xmax>583</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

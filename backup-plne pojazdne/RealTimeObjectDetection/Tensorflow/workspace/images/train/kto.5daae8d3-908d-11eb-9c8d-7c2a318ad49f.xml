@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>kto.5daae8d3-908d-11eb-9c8d-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\kto.5daae8d3-908d-11eb-9c8d-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>237</ymin>
+			<xmax>540</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

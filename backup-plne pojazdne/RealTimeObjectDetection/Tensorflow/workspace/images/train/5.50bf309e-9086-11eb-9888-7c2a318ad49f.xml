@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>5.50bf309e-9086-11eb-9888-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\5.50bf309e-9086-11eb-9888-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>270</ymin>
+			<xmax>277</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

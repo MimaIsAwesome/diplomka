@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>co.15867f1f-908d-11eb-a94a-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\co.15867f1f-908d-11eb-a94a-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>co</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>322</ymin>
+			<xmax>441</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

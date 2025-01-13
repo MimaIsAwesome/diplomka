@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>alebo.e108c5db-908c-11eb-b93d-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\alebo.e108c5db-908c-11eb-b93d-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alebo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>305</ymin>
+			<xmax>618</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

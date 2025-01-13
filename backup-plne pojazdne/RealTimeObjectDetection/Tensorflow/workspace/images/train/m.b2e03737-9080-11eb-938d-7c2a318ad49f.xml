@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>m.b2e03737-9080-11eb-938d-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\m.b2e03737-9080-11eb-938d-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>123</ymin>
+			<xmax>455</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

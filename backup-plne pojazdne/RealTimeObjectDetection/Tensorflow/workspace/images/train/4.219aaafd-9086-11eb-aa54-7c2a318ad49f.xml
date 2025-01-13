@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>4.219aaafd-9086-11eb-aa54-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\4.219aaafd-9086-11eb-aa54-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>styri</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>284</ymin>
+			<xmax>416</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>pivo.8569548c-908b-11eb-9e98-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\pivo.8569548c-908b-11eb-9e98-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pivo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>202</ymin>
+			<xmax>502</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

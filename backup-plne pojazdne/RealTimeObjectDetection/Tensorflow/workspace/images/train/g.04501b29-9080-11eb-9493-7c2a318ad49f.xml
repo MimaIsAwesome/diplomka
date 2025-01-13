@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all</folder>
+	<filename>g.04501b29-9080-11eb-9493-7c2a318ad49f.jpg</filename>
+	<path>C:\Users\MimaJeSuper\Desktop\DP-programs\diplomovka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\all\g.04501b29-9080-11eb-9493-7c2a318ad49f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>232</ymin>
+			<xmax>432</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
