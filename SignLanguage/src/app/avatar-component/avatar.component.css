@@ -1,0 +1,115 @@
+.overlay {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(51,51,51,0.7);
+    z-index: 10;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+}
+
+.textarea {
+    position: fixed;
+    width: 100%;
+    height: 30%;
+    font-size: 4rem;
+    color: white;
+    left: 0;
+    bottom: 0;
+    background: rgba(51,51,51,0.7);
+    z-index: 10;
+}
+
+.button{
+    position: fixed;
+    width: 5rem;
+    height: 5rem;
+    margin: 3rem;
+    right: 0;
+    bottom: 0;
+    background: url("../../assets/send_white.svg") 0 0 / 100% 100% repeat;
+    z-index: 10;
+    cursor: pointer;
+}
+.button:hover {
+    position: fixed;
+    width: 5rem;
+    height: 5rem;
+    margin: 3rem;
+    right: 0;
+    bottom: 0;
+    background: url("../../assets/send_green.png") 0 0 / 100% 100% repeat;
+    z-index: 10;
+}
+
+.button:active {
+    position: fixed;
+    width: 5rem;
+    height: 5rem;
+    margin: 2rem;
+    right: 0;
+    bottom: 0;
+    background: url("../../assets/send_red.png") 0 0 / 100% 100% repeat;
+    z-index: 10;
+}
+
+.img{
+    animation: like-gif steps(28) 1s infinite both
+}
+
+.switch{
+    position: fixed;
+    width: 3rem;
+    height: 3rem;
+    margin: 2rem;
+    left: 0;
+    top: 0;
+    background: url("../../assets/swich.png") 0 0 / 100% 100% repeat;
+    z-index: 10;
+}
+
+.switch:hover{
+    position: fixed;
+    width: 3rem;
+    height: 3rem;
+    margin: 2rem;
+    left: 0;
+    top: 0;
+    background: url("../../assets/swich-green.png") 0 0 / 100% 100% repeat;
+    z-index: 10;
+    cursor: pointer;
+}
+
+#video {
+    background-color: #000000;
+}
+#canvas {
+    display: none;
+}
+
+.white-notification{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 15;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem;
+    background: darkkhaki;
+}
+
+@media screen and (max-width: 800px) {
+    .mobile-avatar {
+
+        position: fixed;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: auto;
+    }
+}

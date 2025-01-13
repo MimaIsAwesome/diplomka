@@ -1,0 +1,13 @@
+<!--The content below is only a placeholder and can be replaced.-->
+
+<div style="text-align:center">
+
+  <div class="center" *ngIf="!toggle">
+    <app-avatar [words]="words"></app-avatar>
+  </div>
+
+  <div *ngIf="toggle">
+    <app-video [toggle]="toggle" ></app-video>
+  </div>
+</div>
+<i class="switch" (click)="switchWin()"></i>

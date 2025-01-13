@@ -1,0 +1,9 @@
+<h1>
+  {{title}}
+</h1>
+<img class="overlay img mobile-avatar" alt="Idle Avatar" [src]="link">
+
+<textarea class="textarea" (input)="getText($event.target.value)" (keydown.enter)="PlayGif();false" ></textarea>
+<i class="button" (click)="PlayGif()"></i>
+
+<h2 *ngIf="displayNotification" class="white-notification"> Prekladam: {{expression}} </h2>
